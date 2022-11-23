@@ -25,7 +25,7 @@ body {
 	height: 450px;
 	background-color: #272d40;
 	border-radius: 15px;
-	padding: 30px 30px;
+	padding: 2em;
 	color: white;
 	position: relative;
 	line-height: 30px;
@@ -112,6 +112,7 @@ img {
 
 }
 
+
 .card__size h3,
 .card__color h3 {
 	font-weight: unset;
@@ -132,55 +133,70 @@ img {
 	height: 20px;
 	border-radius: 50%;
 	margin: 0 5px;
-	cursor: pointer;
+	cursor: default;
 
 }
 
 .card__color span.white {
 	background-color: white;
 }
+
 .card__color span.black {
 	background-color: black;
 }
+
 .card__color span.gray {
 	background-color: gray;
 }
+
 .card__color span.green {
 	background-color: green;
 }
+
 .card__color span.green1 {
 	background-color: rgb(170, 255, 0);
 }
+
 .card__color span.gold {
 	background-color: gold;
 }
+
 .card__color span.blue {
 	background-color: rgb(51, 214, 255);
 }
+
 .card__color span.brown1 {
-	background-color: rgb(153, 102, 51);
+	background-color: rgb(172, 115, 57);
 }
+
 .card__color span.grey {
 	background-color: grey;
 }
+
 .card__color span.pink {
 	background-color: pink;
 }
+
 .card__color span.yellow {
 	background-color: yellow;
 }
+
 .card__color span.blue1 {
 	background-color: rgb(0, 61, 102);
 }
+
 .card__color span.red {
 	background-color: red;
 }
+
 .card__color span.darkgreen {
 	background-color: rgb(0, 128, 0);
 }
+
 .card__color span.orange1 {
 	background-color: rgb(255, 102, 102);
 }
+
 .card__color span.orange2 {
 	background-color: rgb(230, 46, 0);
 }
